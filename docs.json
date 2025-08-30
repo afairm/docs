@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Tactus Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#000000",
+    "light": "#d7ecff",
+    "dark": "#a4d4ff"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -44,7 +44,7 @@
         "tab": "Change Log",
         "groups": [
           {
-            "group": "Change Log",
+            "group": "Timeline",
             "pages": ["changelog"]
           }
         ]
