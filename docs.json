@@ -15,14 +15,10 @@
         "groups": [
           {
             "group": "Getting started",
-            "pages": ["index", "quickstart", "development"]
+            "pages": ["index", "quickstart"]
           },
           {
-            "group": "Customization",
-            "pages": ["essentials/settings", "essentials/navigation"]
-          },
-          {
-            "group": "Writing content",
+            "group": "How to use each page",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -31,11 +27,14 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Core functionality",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "functionality/addingentries",
+              "functionality/editingentries",
+              "functionality/deletingentries",
+              "functionality/timekeepingcalculations",
+              "functionality/sparkcharts",
+              "functionality/summarycharts"
             ]
           }
         ]
