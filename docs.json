@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Tactus Documentation",
   "colors": {
-    "primary": "#000000",
-    "light": "#d7ecff",
-    "dark": "#a4d4ff"
+    "primary": "#67b8ff",
+    "light": "#b5ddff",
+    "dark": "#1893ff"
   },
   "favicon": "/favicon.svg",
   "navigation": {
